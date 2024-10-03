@@ -1,1 +1,1 @@
-# Today we learnt gitg
+# Today we learnt git
